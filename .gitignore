@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!README.md
+!.gitignore
+!*.c
+!*.in
+!*.out

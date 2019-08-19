@@ -1,0 +1,5 @@
+file: |1-10_copy_input_unambiguous.c|
+EXT: |.c|
+csize: |31|
+int_pos_char_ext: |27|
+sizeof: |0|FINAL: |1-10_copy_input_unambiguous.in|
